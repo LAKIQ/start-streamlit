@@ -1,7 +1,7 @@
 
 # Streamlit project
 
-Use Streamlit for Image Processing project
+Use Streamlit for Image Processing project Sarit
 
 
 
