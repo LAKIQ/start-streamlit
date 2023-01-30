@@ -24,3 +24,5 @@ use Python 3.7
     pip install mediapipe==0.8.7.3 
 
 ```
+# Run streamlit
+`streamlit run main.py`
